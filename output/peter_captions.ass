@@ -7,6 +7,7 @@ WrapStyle: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,Inter Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,6,0,5,70,70,0,1
+Style: Title,Inter Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,5,0,5,40,40,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,3 +43,4 @@ Dialogue: 0,0:00:30.40,0:00:31.45,Cap,,0,0,0,,{\pos(540,960)}FEEL LIKE BEFORE.
 Dialogue: 0,0:00:31.45,0:00:32.05,Cap,,0,0,0,,{\pos(540,960)}IT'S {\c&H4EC1F2&}AMAZING.{\c&HFFFFFF&}
 Dialogue: 0,0:00:32.05,0:00:32.60,Cap,,0,0,0,,{\pos(540,960)}I CAN'T EVEN
 Dialogue: 0,0:00:32.60,0:00:33.60,Cap,,0,0,0,,{\pos(540,960)}DESCRIBE IT IN WORDS.
+Dialogue: 1,0:00:00.00,0:00:34.00,Title,,0,0,0,,{\pos(540,135)}DPDR RECOVERY IN {\c&H4EC1F2&}28 DAYS
