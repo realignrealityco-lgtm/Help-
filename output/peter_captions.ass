@@ -6,41 +6,41 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,Inter Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,6,0,5,70,70,0,1
-Style: Title,Inter Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,5,0,5,40,40,0,1
+Style: Cap,Inter Black,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,6,0,5,90,90,0,1
+Style: Title,Inter Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,5,0,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.05,0:00:01.30,Cap,,0,0,0,,{\pos(540,960)}I WENT FROM A PLACE
-Dialogue: 0,0:00:01.30,0:00:02.40,Cap,,0,0,0,,{\pos(540,960)}OF {\c&H4EC1F2&}HOPELESSNESS,{\c&HFFFFFF&}
-Dialogue: 0,0:00:02.40,0:00:03.05,Cap,,0,0,0,,{\pos(540,960)}{\c&H4EC1F2&}DESPAIR,{\c&HFFFFFF&}
-Dialogue: 0,0:00:03.05,0:00:04.60,Cap,,0,0,0,,{\pos(540,960)}AND JUST GENERALLY BELIEVING
-Dialogue: 0,0:00:04.60,0:00:05.65,Cap,,0,0,0,,{\pos(540,960)}THAT THERE WAS NO WAY
-Dialogue: 0,0:00:05.65,0:00:06.80,Cap,,0,0,0,,{\pos(540,960)}I COULD EVER GET BETTER
-Dialogue: 0,0:00:06.80,0:00:07.35,Cap,,0,0,0,,{\pos(540,960)}TO ME NOW,
-Dialogue: 0,0:00:07.35,0:00:08.10,Cap,,0,0,0,,{\pos(540,960)}WHERE GENUINELY
-Dialogue: 0,0:00:08.10,0:00:08.65,Cap,,0,0,0,,{\pos(540,960)}AS IF IT'S
-Dialogue: 0,0:00:08.65,0:00:09.15,Cap,,0,0,0,,{\pos(540,960)}NEVER EVEN
-Dialogue: 0,0:00:09.15,0:00:09.93,Cap,,0,0,0,,{\pos(540,960)}HAPPENED TO ME.
-Dialogue: 0,0:00:09.93,0:00:11.10,Cap,,0,0,0,,{\pos(540,960)}THAT'S WHAT
-Dialogue: 0,0:00:11.10,0:00:12.55,Cap,,0,0,0,,{\pos(540,960)}{\c&H4EC1F2&}RECOVERY{\c&HFFFFFF&} IS LIKE.
-Dialogue: 0,0:00:12.55,0:00:14.05,Cap,,0,0,0,,{\pos(540,960)}YOU LITERALLY ARE
-Dialogue: 0,0:00:14.05,0:00:15.45,Cap,,0,0,0,,{\pos(540,960)}{\c&H4EC1F2&}100%{\c&HFFFFFF&} {\c&H4EC1F2&}RECOVERED.{\c&HFFFFFF&}
-Dialogue: 0,0:00:15.45,0:00:16.65,Cap,,0,0,0,,{\pos(540,960)}THAT FOR ME
-Dialogue: 0,0:00:16.65,0:00:17.50,Cap,,0,0,0,,{\pos(540,960)}WAS ONE OF
-Dialogue: 0,0:00:17.50,0:00:18.80,Cap,,0,0,0,,{\pos(540,960)}THE BIGGEST REASONS
-Dialogue: 0,0:00:18.80,0:00:20.55,Cap,,0,0,0,,{\pos(540,960)}WHY I JOINED THE PROGRAM,
-Dialogue: 0,0:00:20.55,0:00:21.90,Cap,,0,0,0,,{\pos(540,960)}BECAUSE YOU GET
-Dialogue: 0,0:00:21.90,0:00:22.60,Cap,,0,0,0,,{\pos(540,960)}THE {\c&H4EC1F2&}LUXURY{\c&HFFFFFF&}
-Dialogue: 0,0:00:22.60,0:00:24.15,Cap,,0,0,0,,{\pos(540,960)}OF NOT EVEN REMEMBERING
-Dialogue: 0,0:00:24.15,0:00:25.60,Cap,,0,0,0,,{\pos(540,960)}HOW YOU USED TO FEEL.
-Dialogue: 0,0:00:25.60,0:00:26.75,Cap,,0,0,0,,{\pos(540,960)}YOU GO FROM A PLACE
-Dialogue: 0,0:00:26.75,0:00:27.40,Cap,,0,0,0,,{\pos(540,960)}OF BELIEVING
-Dialogue: 0,0:00:27.40,0:00:28.70,Cap,,0,0,0,,{\pos(540,960)}THAT YOU'LL NEVER BE BETTER
-Dialogue: 0,0:00:28.70,0:00:29.65,Cap,,0,0,0,,{\pos(540,960)}AND NOT REMEMBERING
-Dialogue: 0,0:00:29.65,0:00:30.40,Cap,,0,0,0,,{\pos(540,960)}WHAT YOU USED TO
-Dialogue: 0,0:00:30.40,0:00:31.45,Cap,,0,0,0,,{\pos(540,960)}FEEL LIKE BEFORE.
-Dialogue: 0,0:00:31.45,0:00:32.05,Cap,,0,0,0,,{\pos(540,960)}IT'S {\c&H4EC1F2&}AMAZING.{\c&HFFFFFF&}
-Dialogue: 0,0:00:32.05,0:00:32.60,Cap,,0,0,0,,{\pos(540,960)}I CAN'T EVEN
-Dialogue: 0,0:00:32.60,0:00:33.60,Cap,,0,0,0,,{\pos(540,960)}DESCRIBE IT IN WORDS.
-Dialogue: 1,0:00:00.00,0:00:34.00,Title,,0,0,0,,{\pos(540,135)}DPDR RECOVERY IN {\c&H4EC1F2&}28 DAYS
+Dialogue: 1,0:00:00.00,0:00:34.00,Title,,0,0,0,,{\pos(540,320)}DPDR RECOVERY IN {\c&H4EC1F2&}28 DAYS
+Dialogue: 0,0:00:00.09,0:00:01.67,Cap,,0,0,0,,{\pos(540,1000)}I WENT FROM A PLACE
+Dialogue: 0,0:00:01.67,0:00:02.90,Cap,,0,0,0,,{\pos(540,1000)}OF {\c&H4EC1F2&}HOPELESSNESS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.90,0:00:03.66,Cap,,0,0,0,,{\pos(540,1000)}{\c&H4EC1F2&}DESPAIR,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.66,0:00:05.11,Cap,,0,0,0,,{\pos(540,1000)}AND JUST GENERALLY BELIEVING
+Dialogue: 0,0:00:05.11,0:00:06.03,Cap,,0,0,0,,{\pos(540,1000)}THAT THERE WAS NO WAY
+Dialogue: 0,0:00:06.03,0:00:07.26,Cap,,0,0,0,,{\pos(540,1000)}THAT I COULD EVER GET BETTER
+Dialogue: 0,0:00:07.26,0:00:08.49,Cap,,0,0,0,,{\pos(540,1000)}TO ME NOW,
+Dialogue: 0,0:00:08.49,0:00:09.47,Cap,,0,0,0,,{\pos(540,1000)}WHERE GENUINELY
+Dialogue: 0,0:00:09.47,0:00:10.35,Cap,,0,0,0,,{\pos(540,1000)}AS IF IT'S
+Dialogue: 0,0:00:10.35,0:00:10.78,Cap,,0,0,0,,{\pos(540,1000)}NEVER EVEN
+Dialogue: 0,0:00:10.78,0:00:11.35,Cap,,0,0,0,,{\pos(540,1000)}HAPPENED TO ME.
+Dialogue: 0,0:00:11.35,0:00:12.07,Cap,,0,0,0,,{\pos(540,1000)}THAT'S WHAT
+Dialogue: 0,0:00:12.07,0:00:13.01,Cap,,0,0,0,,{\pos(540,1000)}{\c&H4EC1F2&}RECOVERY{\c&HFFFFFF&} IS LIKE.
+Dialogue: 0,0:00:13.01,0:00:14.17,Cap,,0,0,0,,{\pos(540,1000)}YOU LITERALLY ARE
+Dialogue: 0,0:00:14.17,0:00:15.68,Cap,,0,0,0,,{\pos(540,1000)}{\c&H4EC1F2&}100%{\c&HFFFFFF&} {\c&H4EC1F2&}RECOVERED.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.68,0:00:16.86,Cap,,0,0,0,,{\pos(540,1000)}THAT FOR ME
+Dialogue: 0,0:00:16.86,0:00:17.46,Cap,,0,0,0,,{\pos(540,1000)}WAS ONE OF
+Dialogue: 0,0:00:17.46,0:00:18.63,Cap,,0,0,0,,{\pos(540,1000)}THE BIGGEST REASONS
+Dialogue: 0,0:00:18.63,0:00:20.66,Cap,,0,0,0,,{\pos(540,1000)}WHY I JOINED THE PROGRAM,
+Dialogue: 0,0:00:20.66,0:00:21.69,Cap,,0,0,0,,{\pos(540,1000)}BECAUSE YOU GET
+Dialogue: 0,0:00:21.69,0:00:22.57,Cap,,0,0,0,,{\pos(540,1000)}THE {\c&H4EC1F2&}LUXURY{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.57,0:00:24.65,Cap,,0,0,0,,{\pos(540,1000)}OF NOT EVEN REMEMBERING
+Dialogue: 0,0:00:24.65,0:00:26.07,Cap,,0,0,0,,{\pos(540,1000)}HOW YOU USED TO FEEL.
+Dialogue: 0,0:00:26.07,0:00:27.11,Cap,,0,0,0,,{\pos(540,1000)}YOU GO FROM A PLACE
+Dialogue: 0,0:00:27.11,0:00:27.72,Cap,,0,0,0,,{\pos(540,1000)}OF BELIEVING
+Dialogue: 0,0:00:27.72,0:00:29.02,Cap,,0,0,0,,{\pos(540,1000)}THAT YOU'LL NEVER BE BETTER
+Dialogue: 0,0:00:29.02,0:00:29.98,Cap,,0,0,0,,{\pos(540,1000)}AND NOT REMEMBERING
+Dialogue: 0,0:00:29.98,0:00:30.50,Cap,,0,0,0,,{\pos(540,1000)}WHAT YOU USED TO
+Dialogue: 0,0:00:30.50,0:00:31.38,Cap,,0,0,0,,{\pos(540,1000)}FEEL LIKE BEFORE.
+Dialogue: 0,0:00:31.38,0:00:32.45,Cap,,0,0,0,,{\pos(540,1000)}IT'S {\c&H4EC1F2&}AMAZING.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.45,0:00:32.91,Cap,,0,0,0,,{\pos(540,1000)}I CAN'T EVEN
+Dialogue: 0,0:00:32.91,0:00:34.35,Cap,,0,0,0,,{\pos(540,1000)}DESCRIBE IT IN WORDS.
